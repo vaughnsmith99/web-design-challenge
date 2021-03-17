@@ -1,0 +1,21 @@
+
+#nav_bar{
+    background-color: rgb(44, 173, 160);
+    color:white;
+}
+
+#data_header{
+    color:indigo;
+    font-weight: bold;
+}
+#data_text{
+    color:mediumorchid;
+}
+
+#table_body{
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
